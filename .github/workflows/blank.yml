@@ -16,7 +16,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.token }}
-          USERNAME: ${{ github.owner }}
+          USERNAME: ${{ secrets.owner }}
       - name: Commit & Push
         run: |
           git config chs98412 github-actions
