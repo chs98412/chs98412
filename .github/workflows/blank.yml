@@ -19,8 +19,8 @@ jobs:
           USERNAME: ${{ secrets.owner }}
       - name: Commit & Push
         run: |
-          git config chs98412 github-actions
-          git config chs98412@gmail.com github-actions@github.com
+          git config --global user.name "chs98412"
+          git config --global user.email "chs98412@gmail.com"
           git add -A .
           git commit -m "generated"
           git push
