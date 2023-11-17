@@ -5,8 +5,6 @@
 
 
 
-![chs98412's GitHub stats](https://github-readme-stats.vercel.app/api?username=chs98412&show_icons=true&theme=cobalt)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chs0412)](https://solved.ac/chs0412/)
 # Skills 🏃
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
